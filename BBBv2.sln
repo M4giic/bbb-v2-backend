@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationService", "OperationService\OperationService.csproj", "{4D86F680-00B1-4478-86F9-9EE3C8949490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationUserService", "ApplicationUserService\ApplicationUserService.csproj", "{F61EA781-2575-41CB-9B70-A6ED3AB83833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerOperationCalculator", "InnerOperationCalculator\InnerOperationCalculator.csproj", "{E6A1C2C7-D11C-4A42-838A-068623DF3974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D86F680-00B1-4478-86F9-9EE3C8949490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D86F680-00B1-4478-86F9-9EE3C8949490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D86F680-00B1-4478-86F9-9EE3C8949490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D86F680-00B1-4478-86F9-9EE3C8949490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61EA781-2575-41CB-9B70-A6ED3AB83833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61EA781-2575-41CB-9B70-A6ED3AB83833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61EA781-2575-41CB-9B70-A6ED3AB83833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61EA781-2575-41CB-9B70-A6ED3AB83833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A1C2C7-D11C-4A42-838A-068623DF3974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A1C2C7-D11C-4A42-838A-068623DF3974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A1C2C7-D11C-4A42-838A-068623DF3974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A1C2C7-D11C-4A42-838A-068623DF3974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
